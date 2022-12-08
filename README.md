@@ -4,6 +4,24 @@ Data Science Portfolio
 </h1>
 
 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Discover my workpage</title>
+</head>
+<body>
+  <h1 style="color: blue;">Welcome to Your GitHub Page!</h1>
+  <p style="color: purple;">This is your landing page. Add some information about yourself and your projects here.</p>
+  <h2 style="color: green;">About Me</h2>
+  <p style="color: red;">Write a brief bio about yourself, your interests, and your experience with coding.</p>
+  <h2 style="color: green;">My Projects</h2>
+  <p style="color: red;">List your projects and add links to their GitHub repositories.</p>
+</body>
+</html>
+
+
+
+
 ## [Project 1. Generative model - improving resolution](https://github.com/thamizhaiap/image-to-image-translation)
 
 Image-to-image translation is a type of machine learning technique that involves training a generative adversarial network (GAN) to learn the mapping between two different domains. This can be useful for a variety of tasks, such as improving the resolution of an older image or converting a picture from one style to another.
