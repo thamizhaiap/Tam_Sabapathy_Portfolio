@@ -7,7 +7,7 @@ One way to accomplish this is to train the GAN on a dataset of paired images, wh
 To train the GAN, two neural networks are used: a generator and a discriminator. The generator is responsible for generating the high-resolution version of the input image, while the discriminator tries to determine whether the generated image is real or fake. The two networks are trained together in a competitive manner, with the goal of the generator being to produce images that are indistinguishable from real high-resolution images, and the goal of the discriminator being to accurately distinguish between real and fake images.
 
 Once the GAN is trained, it can be used to improve the resolution of older images by providing a low-resolution version as input and obtaining the corresponding high-resolution output from the generator. This can be a useful tool for restoring old photos or improving the quality of images for various applications.
-
+=========================================================================================================================================================================
 
 # [Project 2. Autoencoder - Anomaly detection](https://github.com/thamizhaiap/Autoencoders_anomaly-detection)
 An autoencoder is a type of neural network that is trained to encode and decode data. It can be used for a variety of tasks, including anomaly detection.
@@ -17,3 +17,4 @@ An autoencoder works by learning to compress the input data into a latent repres
 When the autoencoder is used for anomaly detection, it is provided with a new input sample and the output of the decoder is compared to the original input. If the difference between the two is above a certain threshold, the sample is considered to be anomalous.
 
 In the context of condition monitoring, an autoencoder can be trained on normal data from a machine or system in order to detect any unusual behavior that may indicate a potential failure or malfunction. This can help to identify problems before they become serious and prevent costly downtime.
+========================================================================================================================================================================
