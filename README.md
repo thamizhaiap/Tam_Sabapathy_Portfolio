@@ -1,5 +1,5 @@
 # <center>Data Science Projects</center>
-List your projects and add links to their GitHub repositories
+List of projects and links to their GitHub repositories
 ## [Project 1. Generative model - improving resolution](https://github.com/thamizhaiap/image-to-image-translation)
 Image-to-image translation is a type of machine learning technique that involves training a generative adversarial network (GAN) to learn the mapping between two different domains. This can be useful for a variety of tasks, such as improving the resolution of an older image or converting a picture from one style to another.
 
