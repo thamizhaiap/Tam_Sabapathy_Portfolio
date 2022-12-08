@@ -1,7 +1,4 @@
-# Tam_Sabapathy_Portfolio
-Data Science Portfolio
-
-# Generative model - improving resolution
+Project 1. Generative model - improving resolution
 
 Image-to-image translation is a type of machine learning technique that involves training a generative adversarial network (GAN) to learn the mapping between two different domains. This can be useful for a variety of tasks, such as improving the resolution of an older image or converting a picture from one style to another.
 
